@@ -1,0 +1,6 @@
+interface Atm{
+
+	void connectBankDB();
+	
+	}
+	
